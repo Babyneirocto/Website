@@ -1,0 +1,400 @@
+.frame {
+  background-color: #f4a632;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #f4a632;
+  height: 5483px;
+  position: relative;
+  width: 1966px;
+}
+
+.frame .overlap {
+  height: 3913px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1966px;
+}
+
+.frame .rectangle {
+  background-color: #ffd737;
+  height: 597px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1966px;
+}
+
+.frame .rectangle-2 {
+  background-color: #76c8b2;
+  height: 1018px;
+  left: 0;
+  position: absolute;
+  top: 545px;
+  width: 1966px;
+}
+
+.frame .rectangle-3 {
+  background-color: #ffd737;
+  height: 1086px;
+  left: 0;
+  position: absolute;
+  top: 2827px;
+  width: 1966px;
+}
+
+.frame .image {
+  height: 655px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 220px;
+  width: 1966px;
+}
+
+.frame .group {
+  height: 44px;
+  left: 1616px;
+  position: absolute;
+  top: 42px;
+  width: 256px;
+}
+
+.frame .img {
+  height: 38px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 38px;
+}
+
+.frame .image-2 {
+  height: 44px;
+  left: 212px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.frame .BABY-NEIRO-salute-to {
+  color: #ffffff;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 150px;
+  font-weight: 400;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 924px;
+}
+
+.frame .overlap-group-wrapper {
+  height: 1389px;
+  left: 79px;
+  position: absolute;
+  top: 1503px;
+  width: 1780px;
+}
+
+.frame .overlap-group {
+  height: 1389px;
+  position: relative;
+  width: 1774px;
+}
+
+.frame .text-wrapper {
+  color: #ffd73733;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 500px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.frame .text-wrapper-2 {
+  color: #ffd73733;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 500px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 388px;
+}
+
+.frame .text-wrapper-3 {
+  color: #ffd73733;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 500px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 781px;
+}
+
+.frame .p {
+  color: #000000;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 44px;
+  font-weight: 400;
+  left: 955px;
+  letter-spacing: 0;
+  line-height: 73px;
+  position: absolute;
+  text-align: justify;
+  top: 3041px;
+  width: 888px;
+}
+
+.frame .image-3 {
+  height: 698px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 3021px;
+  width: 734px;
+}
+
+.frame .image-wrapper {
+  background-color: #ffffff;
+  border-radius: 30px;
+  height: 687px;
+  left: 1069px;
+  position: absolute;
+  top: 1897px;
+  width: 624px;
+}
+
+.frame .image-4 {
+  height: 608px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 557px;
+}
+
+.frame .rectangle-4 {
+  height: 135px;
+  left: 422px;
+  position: absolute;
+  top: 2173px;
+  width: 448px;
+}
+
+.frame .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 60px;
+  font-weight: 400;
+  left: 532px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2206px;
+  white-space: nowrap;
+  width: 229px;
+}
+
+.frame .group-2 {
+  height: 73px;
+  left: 90px;
+  position: absolute;
+  top: 28px;
+  width: 219px;
+}
+
+.frame .text-wrapper-5 {
+  color: #000000;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 73px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.frame .overlap-2 {
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.frame .ellipse {
+  background-color: #f4a632;
+  border-radius: 30px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 60px;
+}
+
+.frame .element {
+  height: 70px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.frame .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Krona One", Helvetica;
+  font-size: 45px;
+  font-weight: 400;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1711px;
+}
+
+.frame .text-wrapper-7 {
+  color: #ffd737;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 110px;
+  font-weight: 400;
+  left: 689px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4084px;
+  width: 589px;
+}
+
+.frame .overlap-3 {
+  background-color: #ffffff;
+  border-radius: 36px;
+  height: 588px;
+  left: 90px;
+  position: absolute;
+  top: 4301px;
+  width: 407px;
+}
+
+.frame .image-5 {
+  height: 350px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 350px;
+}
+
+.frame .text-wrapper-8 {
+  color: #f4a632;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 322px;
+}
+
+.frame .text-wrapper-9 {
+  color: #000000;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 456px;
+  width: 322px;
+}
+
+.frame .overlap-4 {
+  background-color: #ffffff;
+  border-radius: 36px;
+  height: 588px;
+  left: 551px;
+  position: absolute;
+  top: 4301px;
+  width: 407px;
+}
+
+.frame .text-wrapper-10 {
+  color: #f4a632;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 322px;
+}
+
+.frame .text-wrapper-11 {
+  color: #000000;
+  font-family: "Jolly Lodger", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 456px;
+  width: 322px;
+}
+
+.frame .img-2 {
+  height: 350px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 350px;
+}
+
+.frame .overlap-5 {
+  background-color: #ffffff;
+  border-radius: 36px;
+  height: 588px;
+  left: 1008px;
+  position: absolute;
+  top: 4301px;
+  width: 407px;
+}
+
+.frame .overlap-6 {
+  background-color: #ffffff;
+  border-radius: 36px;
+  height: 588px;
+  left: 1465px;
+  position: absolute;
+  top: 4301px;
+  width: 407px;
+}
